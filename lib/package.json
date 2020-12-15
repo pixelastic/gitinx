@@ -1,0 +1,18 @@
+{
+  "files": ["*.js"],
+  "homepage": "https://projects.pixelastic.com/gitinx/",
+  "license": "MIT",
+  "main": "main.js",
+  "name": "gitinx",
+  "repository": "pixelastic/gitinx",
+  "scripts": {
+    "ci": "../scripts/lib/ci",
+    "husky:precommit": "../scripts/lib/husky-precommit",
+    "lint": "../scripts/lib/lint",
+    "lint:fix": "../scripts/lib/lint-fix",
+    "release": "../scripts/lib/release",
+    "test": "../scripts/lib/test",
+    "test:watch": "../scripts/lib/test-watch"
+  },
+  "version": "0.0.1"
+}

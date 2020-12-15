@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "norska": "1.8.0",
+    "norska-theme-docs": "1.4.0"
+  },
+  "files": [],
+  "homepage": "https://projects.pixelastic.com/gitinx/",
+  "keywords": [],
+  "name": "gitinx-docs",
+  "private": true,
+  "scripts": {
+    "build": "../scripts/docs/build",
+    "build:prod": "../scripts/docs/build-prod",
+    "cms": "../scripts/docs/cms",
+    "lint": "../scripts/docs/lint",
+    "lint:fix": "../scripts/docs/lint-fix",
+    "serve": "../scripts/docs/serve"
+  },
+  "version": "0.0.1"
+}
