@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.14.0"
+    "aberlaas": "1.15.0"
   },
   "files": ["lib/*.js"],
   "license": "MIT",
