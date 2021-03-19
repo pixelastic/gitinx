@@ -4,7 +4,12 @@
     "aberlaas": "1.15.0",
     "lerna": "3.22.1"
   },
-  "files": [],
+  "files": [
+    "lib/*.js",
+    "lib/helpers/*.js",
+    "lib/commands/*.js"
+  ],
+  "main": "lib/main.js",
   "homepage": "https://projects.pixelastic.com/gitinx/",
   "keywords": [],
   "name": "gitinx-monorepo",

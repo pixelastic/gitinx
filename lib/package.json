@@ -16,5 +16,13 @@
     "test": "../scripts/lib/test",
     "test:watch": "../scripts/lib/test-watch"
   },
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "dependencies": {
+    "@app/commands": "link:./commands",
+    "@app/helpers": "link:./helpers",
+    "@octokit/rest": "18.3.5",
+    "firost": "2.7.0",
+    "golgoth": "2.0.0",
+    "json-stable-stringify": "1.0.1"
+  }
 }
