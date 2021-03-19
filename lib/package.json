@@ -1,5 +1,7 @@
 {
-  "files": ["*.js"],
+  "files": [
+    "*.js"
+  ],
   "homepage": "https://projects.pixelastic.com/gitinx/",
   "license": "MIT",
   "main": "main.js",
@@ -14,5 +16,5 @@
     "test": "../scripts/lib/test",
     "test:watch": "../scripts/lib/test-watch"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
