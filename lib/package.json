@@ -21,7 +21,7 @@
     "@app/commands": "link:./commands",
     "@app/helpers": "link:./helpers",
     "@octokit/rest": "18.6.0",
-    "firost": "2.13.1",
+    "firost": "2.14.0",
     "golgoth": "2.0.0",
     "json-stable-stringify": "1.0.1"
   }
