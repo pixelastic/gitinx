@@ -20,7 +20,7 @@
   "dependencies": {
     "@app/commands": "link:./commands",
     "@app/helpers": "link:./helpers",
-    "@octokit/rest": "18.11.0",
+    "@octokit/rest": "18.11.1",
     "firost": "2.17.0",
     "golgoth": "2.1.0",
     "json-stable-stringify": "1.0.1"
