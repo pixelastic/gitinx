@@ -22,7 +22,7 @@
     "@app/helpers": "link:./helpers",
     "@octokit/rest": "18.12.0",
     "firost": "2.17.0",
-    "golgoth": "2.1.0",
+    "golgoth": "2.4.0",
     "json-stable-stringify": "1.0.1"
   }
 }
