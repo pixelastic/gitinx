@@ -1,11 +1,6 @@
-<!--
-  This page was automatically generated.
-  DO NOT EDIT IT MANUALLY.
-  Instead, update .github/README.template.md
-  and run aberlaas readme
--->
+> **⚠️ ARCHIVED**: Was an attempt at turning a git repository into Algolia records, but was never completed.
 
-# gitinx
+---
 
 # gitinx
 
