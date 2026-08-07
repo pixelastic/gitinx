@@ -2,7 +2,7 @@
   "description": "gitinx monorepo",
   "devDependencies": {
     "aberlaas": "1.25.0",
-    "lerna": "4.0.0"
+    "lerna": "9.0.7"
   },
   "files": [
     "lib/*.js",
